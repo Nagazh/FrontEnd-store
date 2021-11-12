@@ -30,6 +30,11 @@ p{
 }
 a{
   text-align: none;
+  text-decoration: none;
+}
+a:hover{
+  color: var(--secundario);
+}
 }
 img{
   max-width: 100%;
